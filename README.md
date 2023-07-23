@@ -13,7 +13,7 @@ Q5
 [doc.docx](https://github.com/AryaKoureshi/IPM-AI/blob/601b6241931707eaf08f8e9d5deb057759b7fc56/Python-Quiz/Q5/doc.docx)
 
 python
-'''
+```
 # Step 0: Imports
 
 import re
@@ -79,4 +79,4 @@ with open(output_file_path, 'w', encoding='utf-8') as output_file:
     for word in unique_words:
 
         output_file.write(word + '\n')
-'''
+```

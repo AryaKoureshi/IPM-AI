@@ -2,18 +2,22 @@
 This repository contains quizzes and projects completed for the course "Artificial Intelligence" at IPM.
 ---
 ## Quiz
+
 [Q1](https://github.com/AryaKoureshi/IPM-AI/blob/412e872a98575a8d7d76107d6078e72703a2da24/Python-Quiz/Q1.jpg)
+
 ---
+
 [Q2](https://github.com/AryaKoureshi/IPM-AI/blob/601b6241931707eaf08f8e9d5deb057759b7fc56/Python-Quiz/Q2.jpeg)
+
 ---
 [Q3,4](https://github.com/AryaKoureshi/IPM-AI/blob/601b6241931707eaf08f8e9d5deb057759b7fc56/Python-Quiz/Q3%264.png)
+
 ---
 [Q5](IPM-AI/Python-Quiz)
 
 [doc.docx](https://github.com/AryaKoureshi/IPM-AI/blob/601b6241931707eaf08f8e9d5deb057759b7fc56/Python-Quiz/Q5/doc.docx)
 
-py
-```
+python ```
 # Step 0: Imports
 
 import re

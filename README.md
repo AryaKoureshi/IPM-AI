@@ -8,11 +8,11 @@ This repository contains quizzes and projects completed for the course "Artifici
 ---
 [Q3,4](https://github.com/AryaKoureshi/IPM-AI/blob/601b6241931707eaf08f8e9d5deb057759b7fc56/Python-Quiz/Q3%264.png)
 ---
-Q5
+[Q5](IPM-AI/Python-Quiz)
 
 [doc.docx](https://github.com/AryaKoureshi/IPM-AI/blob/601b6241931707eaf08f8e9d5deb057759b7fc56/Python-Quiz/Q5/doc.docx)
 
-python
+py
 ```
 # Step 0: Imports
 
